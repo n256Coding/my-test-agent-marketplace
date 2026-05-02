@@ -1,0 +1,12 @@
+{
+	"name": "my-hello-world-plugin",
+	"version": "1.0.0",
+	"description": "This is a helloworld plugin",
+	"author": {
+		"name": "Nishan"
+	},
+	"repository": "https://github.com/n256Coding/my-test-agent-marketplace.git",
+	"agents": [
+		"./agents"
+	]
+}

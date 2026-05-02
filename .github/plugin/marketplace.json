@@ -1,0 +1,12 @@
+{
+  "name": "my-test-agent-marketplaces",
+  "metadata": {
+    "description": "Community-driven collection of GitHub Copilot plugins, agents, prompts, and skills",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "owner": {
+    "name": "GitHub",
+    "email": "copilot@github.com"
+  }
+}
