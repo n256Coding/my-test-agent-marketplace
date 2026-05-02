@@ -8,5 +8,13 @@
   "owner": {
     "name": "GitHub",
     "email": "copilot@github.com"
-  }
+  },
+  "plugins": [
+    {
+      "name": "my-hello-world-plugin",
+      "source": "my-hello-world-plugin",
+      "description": "This is a helloworld plugin",
+      "version": "1.0.0"
+    }
+  ]
 }
